@@ -1,0 +1,3 @@
+# Admin protection
+
+Alice edit.
